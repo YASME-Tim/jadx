@@ -1,5 +1,7 @@
 ## JADX
 
+[![Join the chat at https://gitter.im/YASME-Tim/jadx](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/YASME-Tim/jadx?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/skylot/jadx.png?branch=master)](https://travis-ci.org/skylot/jadx)
 [![Build Status](https://drone.io/github.com/skylot/jadx/status.png)](https://drone.io/github.com/skylot/jadx/latest)
 [![Coverage Status](https://coveralls.io/repos/skylot/jadx/badge.png)](https://coveralls.io/r/skylot/jadx)
